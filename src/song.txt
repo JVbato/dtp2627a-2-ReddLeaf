@@ -77,5 +77,5 @@ Facts and BasicAnalysis about the Song:
 - The title refers to a physical door in a house which is sang in the chorus where she knocks the door and/or door to someone's heart
 
 About Lyrics Player:
-- Ran via 'python3 .\src\animator.py'
+- Ran via 'python3 .\src\lyrics_player.py'
 - Will show each word in song.txt word by word in the terminal w ascii art of the letters
